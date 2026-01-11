@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, my name is Jeff!
+I am a curiosity-driven programmer, currently stuydying Computing Science and Physics at the [University of Alberta](https://www.instagram.com/p/DOMBw8JDSRe/?img_index=1)
+I have interests in indie game development, game engines, computational physics and physics-based modelling. 
 
-<!--
-**JeffKhuu/jeffkhuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In the future I would love to learn more about, machine learning, deep learning and quantum physics!
 
-Here are some ideas to get you started:
+== Skills
+Some of my favorite languages are:
+- Python
+- Java
+- Javascript / Typescript
+- C
+- C++
+- C#
+- Bash
+- Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other skills:
+- UNIX
+- Neovim
+- React
+- Astro
+- Tailwind
+- Vercel
+- SQL
+- REST APIs
+
