@@ -3,6 +3,12 @@ I am a curiosity-driven programmer, currently stuydying Computing Science and Ph
 I have interests in indie game development, game engines, computational physics and physics-based modelling. 
 
 In the future I would love to learn more about, machine learning, deep learning and quantum physics!
+|     .-.
+|    /   \         .-.
+|   /     \       /   \       .-.     .-.     _   _
++--/-------\-----/-----\-----/---\---/---\---/-\-/-\/\/---
+| /         \   /       \   /     '-'     '-'
+|/           '-'         '-'
 
 ## Skills
 Some of my favorite languages are:
