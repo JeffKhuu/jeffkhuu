@@ -4,10 +4,15 @@ I have interests in indie game development, game engines, computational physics 
 
 In the future I would love to learn more about, machine learning, deep learning and quantum physics!
 |     .-.
+
 |    /   \         .-.
+
 |   /     \       /   \       .-.     .-.     _   _
+
 +--/-------\-----/-----\-----/---\---/---\---/-\-/-\/\/---
+
 | /         \   /       \   /     '-'     '-'
+
 |/           '-'         '-'
 
 ## Skills
